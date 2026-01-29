@@ -12,7 +12,8 @@ Es muy conocido que este so es totalmente gratuito y de codigo abierto, por lo t
 - Puede usarse como solucion de firewall
 - Puede usarse como sistema operativo
 
-## El kernel es la base de todo Linux, es el centro entre el hadware y el software, este es el protagonismo directo y responsable de que nuestras aplicaciones funcionen.
+## El kernel 
+El kernel es la base de todo Linux, es el centro entre el hadware y el software, este es el protagonismo directo y responsable de que nuestras aplicaciones funcionen.
 
 ## Caracteristicas:
 - Administracion de la memoria
